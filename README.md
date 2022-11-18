@@ -1,2 +1,1 @@
-# TinderDog
-A site to help dogs find their lovers
+TinDog Starting Files
